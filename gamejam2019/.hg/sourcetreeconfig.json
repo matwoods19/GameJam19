@@ -1,0 +1,30 @@
+{
+  "$id": "5",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2020-01-15T14:45:05.0164812-05:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "6",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "",
+      "RemoteName": "default",
+      "Type": 0,
+      "Username": "mwoods19",
+      "CloneUrl": "https://mwoods19@bitbucket.org/niovanna/gamejam482019",
+      "ProjectUrl": "https://bitbucket.org/niovanna/gamejam482019",
+      "AccountId": "mwoods19@bitbucket.org",
+      "AvatarUrl": "https://bytebucket.org/ravatar/%7Ba6b133a7-4d39-4fca-b52a-e6c29fda90a2%7D?ts=default",
+      "DisplayName": "default: https://bitbucket.org/"
+    }
+  ]
+}
